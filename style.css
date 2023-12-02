@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#slotMachine {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.slot {
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
